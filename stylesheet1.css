@@ -14,9 +14,10 @@ padding-left: 24px;
 padding-right: 24px;
 }
 a {
-color: blue;
+color: cyan;
 }
 html {
 background: radial-gradient(circle, blue, blue 50%, navy 50%, blue);
 background-size: 8px 8px;
+
 }
